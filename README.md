@@ -80,12 +80,7 @@ Este projeto é ótimo para iniciantes entenderem:
 
 ## 📸 Imagens do Projeto / Project Images
 
-> 💡 Você pode adicionar imagens aqui futuramente para ilustrar seu circuito e o funcionamento. Exemplo:
-
-```
-📷 ![image](https://github.com/user-attachments/assets/2eea3478-5545-4d02-8094-6d59df7aaa21)
-
-```
+![image](https://github.com/user-attachments/assets/094f54c5-cfa6-496e-9983-4bce51c6d348)
 
 
 ## 🤝 Autor / Author
