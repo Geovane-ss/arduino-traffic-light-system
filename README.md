@@ -82,6 +82,13 @@ Este projeto é ótimo para iniciantes entenderem:
 
 ![image](https://github.com/user-attachments/assets/094f54c5-cfa6-496e-9983-4bce51c6d348)
 
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença [MIT License]
+
+---
 
 ## 🤝 Autor / Author
 
